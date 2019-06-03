@@ -21,21 +21,21 @@ organizations:
 bio: I am a PhD Student in CSE at IIT Kanpur
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Reinforcement Learning
+- Computer Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science and Engineering
+    institution: Indian Institute of Technology Kanpur
+    year: 2023
+  - course: M.Sc. in Computer Science
+    institution: Ramakrishna Mission Vivekananda Educational and Research Institute
+    year: 2018
+  - course: B.Sc. in Computer Science
+    institution: Ramakrishna Mission Vidyamandira
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
