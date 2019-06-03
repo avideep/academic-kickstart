@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Avideep Mukherjee
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in CSE
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: IIT Kanpur
+  url: "www.iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD Student in CSE at IIT Kanpur
 
 interests:
 - Artificial Intelligence
