@@ -15,7 +15,7 @@ role: PhD Student in CSE
 # Organizations/Affiliations
 organizations:
 - name: IIT Kanpur
-  url: "www.iitk.ac.in"
+  url: "http://www.iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD Student in CSE at IIT Kanpur
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science and Engineering
+  - course: PhD in [Computer Science and Engineering](https://www.cse.iitk.ac.in/)
     institution: Indian Institute of Technology Kanpur
     year: 2023
   - course: M.Sc. in Computer Science
