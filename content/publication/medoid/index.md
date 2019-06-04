@@ -1,8 +1,9 @@
 ---
 title: "An Effective Nearest Neighbor Classification Technique Using Medoid Based Weighting Scheme"
 date: 2018-05-01
-draft: true
+draft: false
 publication_type: "1"
+featured : true
 abstract: "The k-nearest neighbor decision rule is a simple,
 robust and widely used classifier. The method puts a point
 into a particular class, if the class has the maximum representation among the k nearest neighbors of the point in the
