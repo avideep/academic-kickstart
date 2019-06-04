@@ -19,4 +19,3 @@ experimental results using various standard benchmark data
 sets have shown that the proposed method outperforms
 different state of the art classifiers.
 ---
-
